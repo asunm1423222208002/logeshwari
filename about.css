@@ -1,0 +1,16 @@
+.logo{
+    color: hsl(23, 100%, 50%);
+    font-size: 35px;
+    font-family: Arial;
+    
+}
+.main{
+    background-image:linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(webbackground.jpg);
+    width: 1000px;
+    height: 1000px;
+}
+.about{
+    
+    margin-left: 10px;
+    color: rgb(240, 232, 232);
+}
